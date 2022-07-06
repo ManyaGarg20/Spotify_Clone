@@ -68,7 +68,8 @@ nav ul a{
 }
 .container
 {
-    background-image: url("pics/bg.jpg") ;
+    background-image: url("pics/bg.jpg");
+      background-repeat: no-repeat;
         background-size: 100% 70vw;
 color: white;
 font-family: cursive;
